@@ -164,9 +164,8 @@ body {
 #feature .fe-box:hover {
     box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
     
-  transform: scaleZ(.6);
-  /*making the scaling smooth*/
-  transition: transform 0.5s ease;
+    transform: scale(0.80);
+    cursor: zoom-in;
 }
 
 #feature .fe-box img {
