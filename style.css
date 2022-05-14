@@ -122,6 +122,14 @@ body {
     margin-left: 75px;
 }
 
+#hero p {
+    margin-left: 75px;
+}
+
+#hero h2 {
+    margin-left: 75px;
+}
+
 #hero button {
     background-image: url('img/button.png');
     background-color: transparent;
