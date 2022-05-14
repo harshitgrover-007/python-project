@@ -119,6 +119,7 @@ body {
 
 #hero h1 {
     color: #088178;
+    margin-left: 75px;
 }
 
 #hero button {
@@ -130,5 +131,6 @@ body {
     background-repeat: no-repeat;
     cursor: pointer;
     font-weight: 700;
+    margin-left: 75px;
     font-size: 15px;
 }
