@@ -110,7 +110,7 @@ body {
     flex-direction: column;
     align-items: flex-start;
     justify-content: center;
-    margin-right: -23px;
+    margin-left: -23px;
 }
 
 #hero h4 {
