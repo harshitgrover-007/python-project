@@ -165,7 +165,6 @@ body {
     box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
     
     transform: scale(0.80);
-    cursor: zoom-out;
     transition: transform .5s ease-out;
 }
 
