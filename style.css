@@ -166,7 +166,7 @@ body {
     
     transform: scale(0.80);
     cursor: zoom-out;
-    transition: transform .5s ease;
+    transition: transform .5s ease-in;
 }
 
 #feature .fe-box img {
