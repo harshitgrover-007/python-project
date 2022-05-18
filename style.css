@@ -264,6 +264,7 @@ body {
     font-weight: 500;
     color: #088178;
     border: 1px solid #cce7d0;
+    position: inherit;
     bottom: 20px;
     right: 10px;
 }
