@@ -264,5 +264,7 @@ body {
     font-weight: 500;
     color: #088178;
     border: 1px solid #cce7d0;
-    right: 70px;
+    position: sticky;
+    bottom: 20px;
+    right: 10px;
 }
