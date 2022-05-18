@@ -219,7 +219,7 @@ body {
     position: relative;
 }
 
-#product1 #pro-container{
+#product1 .pro-container{
     display: flex;
     justify-content: space-between;
     padding-top: 20px;
