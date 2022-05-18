@@ -219,7 +219,7 @@ body {
     position: relative;
 }
 
-#product1 .ipo{
+#product1 .pro-container .ipo{
     display: flex;
     justify-content: space-between;
     padding-top: 20px;
