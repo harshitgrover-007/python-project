@@ -246,7 +246,6 @@ body {
 #product1 .pro .des i {
     font-size: 12px;
     color: rgb(243, 181, 25);
-    position: relative;
 }
 
 #product1 .pro .des h4 {
@@ -265,7 +264,6 @@ body {
     font-weight: 500;
     color: #088178;
     border: 1px solid #cce7d0;
-    position: absolute;
     bottom: 20px;
     right: 10px;
 }
