@@ -102,5 +102,22 @@
 </section>
 
 <script src="script.js"></script>
+<script type="module">
+    import { initializeApp } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-app.js";
+    import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.8.1/firebase-analytics.js";
+    const firebaseConfig = {
+      apiKey: "AIzaSyD7C-8UPzco5989EhVAXcLpFXBxHHFKWdA",
+      authDomain: "harshitcara.firebaseapp.com",
+      projectId: "harshitcara",
+      storageBucket: "harshitcara.appspot.com",
+      messagingSenderId: "277608744265",
+      appId: "1:277608744265:web:dabb78caa5b8b38c604698",
+      measurementId: "G-MG4MF0FM6Z"
+    };
+  
+    // Initialize Firebase
+    const app = initializeApp(firebaseConfig);
+    const analytics = getAnalytics(app);
+  </script>
 </body>
 </html>
