@@ -216,6 +216,7 @@ body {
     box-shadow: rgba(0, 0, 0, 0.02);
     margin: 15px 0;
     transition: .2s ease;
+    position: relative;
 }
 
 #product1 .pro:hover{
@@ -264,7 +265,7 @@ body {
     font-weight: 500;
     color: #088178;
     border: 1px solid #cce7d0;
-    position: sticky;
+    position: absolute;
     bottom: 20px;
     right: 10px;
 }
